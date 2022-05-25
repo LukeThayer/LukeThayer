@@ -4,3 +4,5 @@ I am an Electrical Engineer that enjoys writing code. Most of the code I write i
 
 Buddy projects Repos:
 [TheLowSeas](https://github.com/TheLowSeas)
+ - [OneWheel](https://github.com/TheLowSeas/SingleWheel)
+ - [UnderGrowth](https://github.com/TheLowSeas/Undergrowth2)
